@@ -1,0 +1,74 @@
+body {
+    background-color: blanchedalmond;
+}
+#nav{
+    border: 2px dashed black;
+    background-color: beige;
+    display: inline-block;
+    text-align: center;
+    width: 98%;
+
+}
+nav ul li{
+    display:inline-block;
+    padding: 10px;
+    
+}
+nav a{
+    text-decoration: none;
+    color: black;
+
+}
+a:hover {
+    color: red;
+}
+#aboutme {
+    background-color: aqua;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+
+}
+#mycity {
+    border: 8px dotted red;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+#gallery {
+    background-color: aqua;
+    text-align: center;
+}
+#sport  {
+    border: 6px dotted red;
+
+    
+}
+#sport img {
+    margin-left:700px;
+   
+}
+#sport p {
+    text-align: center;
+}
+#book {
+    background-color: aqua;
+    text-align: center;
+}
+#mymessage {
+    border: 2px dashed black;
+    background-color: beige;
+    text-align: center;
+}
+div {
+    margin: 10px;
+    padding: 10px;
+}
+div {
+    display:block ;
+    margin: 10px;
+    pad: 10px;
+}
+h1,h2,h3 {
+    text-align: center;
+}
